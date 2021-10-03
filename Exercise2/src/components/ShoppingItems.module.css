@@ -1,0 +1,21 @@
+.tem
+{
+  background-color: pink;
+  margin-bottom: 10px;      
+}
+
+.tem > div
+{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.flux
+{
+  display: flex;
+}
+
+.Unit
+{
+  width: 40px;    
+}

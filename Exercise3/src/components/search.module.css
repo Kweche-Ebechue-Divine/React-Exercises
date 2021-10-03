@@ -1,0 +1,5 @@
+.presentations
+{
+  display: flex;
+  flex-wrap: wrap;
+}

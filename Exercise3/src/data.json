@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "A7 III SLR CAMERA",
+      "color": "Black",
+      "description": "UHD 4K3OP Video Recording Web Camera",
+      "price": 380,
+      "image": "image1.png"
+     
+    },
+
+    {
+      "id": 2,
+      "name": "Sony WH1000XM4 Answering Headphone",
+      "color": "Black",
+      "description": "Wireless anti-noise headphone, First class noise cancellation",
+      "price": 270,
+      "image": "headset.png"
+     
+    },
+
+    {
+      "id": 3,
+      "name": "Samsung galaxy S20 FE 5G 128GB",
+      "color": "Cloud navy ",
+      "description": "Premium level phone, tripple camera and 120HZ display and ready for 5G connection",
+      "price": 280,
+      "image": "phone1.png"
+      
+    },
+
+    {
+      "id": 4,
+      "name": "Apple ipone 12 pro 5G 128GB",
+      "color": "pacific blue",
+      "description": "Pro camera, opportunities for a professional",
+      "price": 759,
+      "image": "phone2.png"
+      
+    },
+    
+    {
+      "id": 5,
+      "name": "EOS 90D camera",
+      "color": "Black",
+      "description": "High resolution, 4K video recording using full cell width and fully rotable screen",
+      "price": 1550,
+      "image": "camera2.png"
+     
+    }
+  ]
+}

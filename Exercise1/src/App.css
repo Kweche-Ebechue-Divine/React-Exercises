@@ -1,0 +1,30 @@
+section{
+
+    padding-left: 10vw;
+    padding-right: 10vw;
+    text-align: center;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    padding-left: 10px;
+}
+
+.newsrapper{
+    display: flex;
+}
+
+.leftbox {
+    flex: 1;
+    min-width: 500px;
+
+}
+
+.rightbox{
+    flex: 2;
+    min-width: 300px;
+    border:1px solid gray;
+}
